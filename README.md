@@ -12,18 +12,7 @@ npm run serve
 
 ### Compiles and minifies for production
 ```
-npm run build
-```
+the site is available at the link http://localhost:8080/todos
+if port 8080 is busy with another program, specify 8081, 8082 and so on...
 
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Good luck! )
