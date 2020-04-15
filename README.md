@@ -12,7 +12,7 @@ npm run serve
 
 ### Server
 ```
-start /backend/server.py
+start it here:    /backend/server.py
 
 ### Client site
 ```
